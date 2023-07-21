@@ -10,7 +10,7 @@ Bem-vindos novamente e obrigado por visitar nossa Base de Conhecimento,
 
 <strong>Equipe MASTERPLANTI</strong><br>
 <br>
-<img src="/index_base.jpg"/>
+![index_base](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/0519d0d3-2c20-4ea6-a1d1-579f41e8431b)
 
 **<a href="https://github.com/Masterplanti-Suporte/Documentacao/tree/main/MP360"> MP360 </a>** <br>
 **<a href="https://github.com/Masterplanti-Suporte/Documentacao/tree/main/PROPLANTI%20APP%20MOBILE"> PROPLANTI APP MOBILE </a>** <br>
