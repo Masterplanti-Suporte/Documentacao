@@ -9,8 +9,12 @@ O aplicativo **PROPLANTI MOBILE** é uma expansão de nossa plataforma **PROPLAN
 * [2. Como alterar e-mail entre funcionários](#112-PROPLANTI---LOGIN---Como-alterar-e-mail-entre-funcionários)
 
 
-### Requisitos Minimos
+### Requisitos Mínimos
 
-#### Problema
-
-Ao tentar recuperar a senha de acesso do usuário é apresentada a mensagem: **"Email informado é inválido"**.
+  - **HARDWARE**
+    - `PROCESSADOR` &mdash; Quad-Core com 1.3 GHZ ou Superior
+    - `MEMÓRIA RAM` &mdash; 1 GB
+    - 
+  - **SOFTWARE**
+    - `SISTEMA OPERACIONAL` &mdash; Android 7.1 ou Superior
+    
