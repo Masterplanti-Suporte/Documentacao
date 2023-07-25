@@ -7,21 +7,15 @@ O aplicativo **PROPLANTI MOBILE** é uma expansão de nossa plataforma **PROPLAN
 ### EQUIPAMENTO
 * [Requisitos Mínimos](#EQUIPAMENTO---Requisitos-Minimos)
 
-### IMPRESSORA
-* [Impressão de etiquetas/Impressoras locais](#IMPRESSORA---Impressão-de-etiquetasImpressoras-locais)
-
 
 ---
 
-### EQUIPAMENTO - Requisitos Mínimos  [Voltar ao ÍNDICE](#ÍNDICE)
+### EQUIPAMENTO - Requisitos Mínimos  
+>[Voltar ao ÍNDICE](#ÍNDICE)
   - **HARDWARE**
     - `PROCESSADOR` &mdash; Quad-Core com 1.3 GHZ ou Superior
     - `MEMÓRIA RAM` &mdash; 1 GB
     - 
   - **SOFTWARE**
     - `SISTEMA OPERACIONAL` &mdash; Android 7.1 ou Superior
-    
-### IMPRESSORA - Impressão de etiquetas/Impressoras locais
-
-Para a utilização de impressoras locais (necessário para impressão de etiquetas), pelo botão Imprimir para impressora local. É necessário realizar o cadastro de impressoras locais pelo menu Configurações.
     
