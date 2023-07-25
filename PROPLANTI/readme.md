@@ -1,1 +1,2 @@
-![proplantiweb_logo](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/995dd0c5-5458-46d4-ab5c-88bbad856e0d)
+![PRO Base de Conhecimento](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/be1f0aa0-86e2-4988-9590-eebbe5b07d59)
+
