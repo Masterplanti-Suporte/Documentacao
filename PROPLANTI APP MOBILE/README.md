@@ -1,4 +1,4 @@
-![APP Base de Conhecimento](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/a4b5717b-3b90-47c9-9a04-2ae12af9cc6d)
+![APP Base de Conhecimento](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/39802f53-fc39-403d-ac8d-e18c8e9516d2)
 <br>
 O aplicativo **PROPLANTI MOBILE** é uma expansão de nossa plataforma **PROPLANTI**, criado para auxiliar no registro e gerenciamento da manutenção de lotes. Ele possibilita a realização de apontamentos de atividades, criação, execução ou visualização dos apontamentos planejadas, também oferece um processo de expedição, que trata da entrega e saída dos lotes de forma eficiente e organizada, além de outras funcionalidades.
 
