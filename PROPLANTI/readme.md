@@ -51,7 +51,27 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
    5.1. O aplicativo será minimizado e estará disponível na bandeja de icones do Windows, e já estará disponível para impressão via PROPLANTI (_um duplo clique do mouse sobre o ícone do aplicativo, abrirá o aplicativo permitindo alterar a configuração ou visualizar o log_)<br>
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/eb806df5-c377-4a8e-be32-806f364e1dd1)
    
-    
+| Icone | Descrição                              | Ação                                 |
+| ------------ | ---------------------------------------- | ---------------------------------------- |
+| HARDWARE     | equivalente  | 3.06 GHZ ou superior |
+| SOFTWARE     | Windows 7  | X |
+
+
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
    
 
 
