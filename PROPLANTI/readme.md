@@ -13,7 +13,7 @@ O aplicativo **PROPLANTI** é uma plataforma criado para auxiliar no registro e 
 >[Voltar ao ÍNDICE](#ÍNDICE)
 
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/0b3e99ee-4205-4bb8-9d9d-fe54d687d72d)
-Para realizar a impressão de etiquetas em uma impressora local através do botão **Imprimir para impressora local (NOVO)**, basta seguir os procedimentos abaixo antes da impressão:
+Para realizar a impressão de etiquetas em uma impressora local através do botão **Imprimir para impressora local (NOVO)**, será necessário efetuar a baixa e configuração do módulo de impressão em seu computador e seguir com os procedimentos abaixo antes da impressão:
     
 #### Passo a passo para configuração no PROPLANTI
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/d8510854-d02c-40f7-95f7-5f9f661c5a7e)
@@ -25,27 +25,27 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
    
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/bd30f4f0-5532-4ae8-a658-0da0e16bb5f1)
 
-#### Passo a passo para configuração local
+#### Passo a passo para configuração do módulo de impressão em seu computador
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/5082c0de-ac60-47c8-b6c9-947b83044ae8)
 1. Na janela de qualquer relatório, realize o download do arquivo de impressão local clicando no botão **Baixar aplicativo para impressão local (NOVO)**<br>
    1.1. Será baixado o arquivo **Impressão de etiquetas.exe** na pasta **Downloads** do seu computador<br>
    1.2. Ao executar o aplicativo **Impressão de etiquetas.exe** será exibida a janela abaixo<br>
 
-   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/ec592282-f219-4354-bdb4-566507fda538)
+   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/29cd6df2-7a6e-4f3a-b43f-8a0747882245)
    
    **ATENçÃO:**
    ```
-   Tenha cuidade para não executar o aplicativo "Impressão de etiquetas.exe" varias vezes, essa ação fará
+   Tenha cuidado para não executar o aplicativo "Impressão de etiquetas.exe" varias vezes, essa ação fará
    com que sejam abertos diversos aplicativos ao mesmo tempo. Caso isso ocorra, localize os aplicativos
    na bandeja de icones do Windows, clique com o botão direito do mouse sobre o ícone do aplicativo e
-   selecione a opção "Fechar" 
+   selecione a opção "Fechar", até que permaneça somente um aplicativo ativo. 
    ```
 
 3. Localize e selecione a impressora que se deseja imprimir as etiquetas
 4. Copie e cole o **Token de identificação** (chave) de configuração previamente registrada no item 3.1 do **Passo a passo para configuração no PROPLANTI**
 5. Marque a opção **Iniciar com o Windows** para que o aplicativo seja iniciado automaticamente na inicialização do computador
    
-   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/588084c8-0b53-4b50-a994-2bbd1aaa067b)
+   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/1a7e1c2c-ee51-4acd-985c-e5cc2b0b8bc8)
  
 6. Clique no botão **Salvar**<br>
    5.1. O aplicativo será minimizado e estará disponível na bandeja de icones do Windows, e já estará disponível para impressão via PROPLANTI (_um duplo clique do mouse sobre o ícone do aplicativo, abrirá o aplicativo permitindo alterar a configuração ou visualizar o log_)<br>
