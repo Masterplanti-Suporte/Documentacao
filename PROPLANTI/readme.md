@@ -15,7 +15,7 @@ O aplicativo **PROPLANTI** é uma plataforma criado para auxiliar no registro e 
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/0b3e99ee-4205-4bb8-9d9d-fe54d687d72d)
 Para realizar a impressão de etiquetas em uma impressora local através do botão **Imprimir para impressora local (NOVO)**, será necessário efetuar a baixa e configuração do módulo de impressão em seu computador e seguir com os procedimentos abaixo antes da impressão:
     
-#### Passo a passo para configuração no PROPLANTI
+#### • PASSO A PASSO PARA CONFIGURAÇÃO NO PROPLANTI
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/d8510854-d02c-40f7-95f7-5f9f661c5a7e)
 1. Através do menu principal do PROPLANTI, clique na opção **Configurações**
 2. Localize e clique sobre a seção **Impressoras (configuração para novo modelo de impressão de relatórios)**<br>
@@ -25,7 +25,7 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
    
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/bd30f4f0-5532-4ae8-a658-0da0e16bb5f1)
 
-#### Passo a passo para configuração do módulo de impressão em seu computador
+#### • PASSO A PASSO PARA CONFIGURAÇÃO DO MÓDULO DE IMPRESSÃO EM SEU COMPUTADOR
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/5082c0de-ac60-47c8-b6c9-947b83044ae8)
 1. Na janela de qualquer relatório, realize o download do arquivo de impressão local clicando no botão **Baixar aplicativo para impressão local (NOVO)**<br>
    1.1. Será baixado o arquivo **Impressão de etiquetas.exe** na pasta **Downloads** do seu computador<br>
