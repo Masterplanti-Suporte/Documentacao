@@ -35,7 +35,7 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
    
    **ATENçÃO:**
    ```
-   Tome cuidade para não executar o aplicativo "Impressão de etiquetas.exe" varias vezes, essa ação fará
+   Tenha cuidade para não executar o aplicativo "Impressão de etiquetas.exe" varias vezes, essa ação fará
    com que sejam abertos diversos aplicativos ao mesmo tempo. Caso isso ocorra, localize os aplicativos
    na bandeja de icones do Windows, clique com o botão direito do mouse sobre o ícone do aplicativo e
    selecione a opção "Fechar" 
