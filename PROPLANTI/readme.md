@@ -30,18 +30,28 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
 1. Na janela de qualquer relatório, realize o download do arquivo de impressão local clicando no botão **Baixar aplicativo para impressão local (NOVO)**<br>
    1.1. Será baixado o arquivo **Impressão de etiquetas.exe** na pasta **Downloads** do seu computador<br>
    1.2. Ao executar o aplicativo **Impressão de etiquetas.exe** será exibida a janela abaixo<br>
-   
+
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/ec592282-f219-4354-bdb4-566507fda538)
    
-2. Localize e selecione a impressora que se deseja imprimir as etiquetas
-3. Copie e cole o **Token de identificação** (chave) de configuração previamente registrada no item 3.1 do **Passo a passo para configuração no PROPLANTI**
-4. Marque a opção **Iniciar com o Windows** para que o aplicativo seja iniciado automaticamente na inicialização do computador;
+   **ATENçÃO:**
+   ```
+   Tome cuidade para não executar o aplicativo "Impressão de etiquetas.exe" varias vezes, essa ação fará
+   com que sejam abertos diversos aplicativos ao mesmo tempo. Caso isso ocorra, localize os aplicativos
+   na bandeja de icones do Windows, clique com o botão direito do mouse sobre o ícone do aplicativo e
+   selecione a opção "Fechar" 
+   ```
+
+3. Localize e selecione a impressora que se deseja imprimir as etiquetas
+4. Copie e cole o **Token de identificação** (chave) de configuração previamente registrada no item 3.1 do **Passo a passo para configuração no PROPLANTI**
+5. Marque a opção **Iniciar com o Windows** para que o aplicativo seja iniciado automaticamente na inicialização do computador
    
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/588084c8-0b53-4b50-a994-2bbd1aaa067b)
  
-5. Clique no botão **Salvar**<br>
-   5.1. O aplicativo será minimizado e estará disponível na bandeja de icones do Windows ao lado do relógio e já estará disponível para impressão via PROPLANTI;
-
+6. Clique no botão **Salvar**<br>
+   5.1. O aplicativo será minimizado e estará disponível na bandeja de icones do Windows, e já estará disponível para impressão via PROPLANTI (_um duplo clique do mouse sobre o ícone do aplicativo, abrirá o aplicativo permitindo alterar a configuração ou visualizar o log_)<br>
+   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/eb806df5-c377-4a8e-be32-806f364e1dd1)
+   
+    
    
 
 
