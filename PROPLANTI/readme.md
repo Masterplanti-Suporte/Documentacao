@@ -5,15 +5,43 @@ O aplicativo **PROPLANTI** é uma plataforma criado para auxiliar no registro e 
 # ÍNDICE
 
 ### IMPRESSÃO
-* [Como configurar uma impressora local para a impressão de etiquetas](#IMPRESSÃO---Como-configurar-uma-impressora-local-para-a-impressão-de-etiquetas)
+* [Como configurar a impressão de etiquetas para uma impressora local](#IMPRESSÃO---Como-configurar-a-impressão-de-etiquetas-para-uma-impressora-local)
 
 ---
 
-### IMPRESSÃO - Como configurar uma impressora local para a impressão de etiquetas
+### IMPRESSÃO - Como configurar a impressão de etiquetas para uma impressora local
 >[Voltar ao ÍNDICE](#ÍNDICE)
 
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/0b3e99ee-4205-4bb8-9d9d-fe54d687d72d)
-Para realizar a impressão de etiquetas em uma impressora local através do botão **Imprimir para impressora local (NOVO)**, basta seguir os procedimentos abaixo:
+Para realizar a impressão de etiquetas em uma impressora local através do botão **Imprimir para impressora local (NOVO)**, basta seguir os procedimentos abaixo antes da impressão:
     
+#### Passo a passo para configuração no PROPLANTI
 ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/d8510854-d02c-40f7-95f7-5f9f661c5a7e)
-1.
+1. Através do menu principal do PROPLANTI, clique na opção **Configurações**
+2. Localize e clique sobre a seção **Impressoras (configuração para novo modelo de impressão de relatórios)**<br>
+   2.1. Será apresentada uma lista com todas as impressoras registradas
+3. Para adicionar uma nova impressora, basta colocar o nome da impressora no campo **Aplicação** (_escolha um nome de fácil reconhecimento, como **Impressora Estufa B01**, por exemplo_) e depois clique no botão **Adicionar**<br>
+   3.1. Será gerado um novo registro e um Token de identificação (chave) para a impressora (_esse token será utilizado no **Passo a passo para configuração local** a seguir_)<br>
+   
+   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/bd30f4f0-5532-4ae8-a658-0da0e16bb5f1)
+
+#### Passo a passo para configuração local
+![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/5082c0de-ac60-47c8-b6c9-947b83044ae8)
+1. Na janela de qualquer relatório, realize o download do arquivo de impressão local clicando no botão **Baixar aplicativo para impressão local (NOVO)**<br>
+   1.1. Será baixado o arquivo **Impressão de etiquetas.exe** na pasta **Downloads** do seu computador<br>
+   1.2. Ao executar o aplicativo **Impressão de etiquetas.exe** será exibida a janela abaixo<br>
+   
+   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/ec592282-f219-4354-bdb4-566507fda538)
+   
+2. Localize e selecione a impressora que se deseja imprimir as etiquetas
+3. Copie e cole o **Token de identificação** (chave) de configuração previamente registrada no item 3.1 do **Passo a passo para configuração no PROPLANTI**
+4. Marque a opção **Iniciar com o Windows** para que o aplicativo seja iniciado automaticamente na inicialização do computador;
+   
+   ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/588084c8-0b53-4b50-a994-2bbd1aaa067b)
+ 
+5. Clique no botão **Salvar**<br>
+   5.1. O aplicativo será minimizado e estará disponível na bandeja de icones do Windows ao lado do relógio e já estará disponível para impressão via PROPLANTI;
+
+   
+
+
