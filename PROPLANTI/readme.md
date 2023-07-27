@@ -50,28 +50,30 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
 6. Clique no botão **Salvar**<br>
    5.1. O aplicativo será minimizado e estará disponível na bandeja de icones do Windows, e já estará disponível para impressão via PROPLANTI (_um duplo clique do mouse sobre o ícone do aplicativo, abrirá o aplicativo permitindo alterar a configuração ou visualizar o log_)<br>
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/eb806df5-c377-4a8e-be32-806f364e1dd1)
-   
-| Icone | Descrição                              | Ação                                 |
-| ------------ | ---------------------------------------- | ---------------------------------------- |
-| HARDWARE     | equivalente  | 3.06 GHZ ou superior |
-| SOFTWARE     | Windows 7  | X |
 
 
 <details>
+<summary>OUTRAS INFORMAÇÕES ÚTEIS</summary>
 
-<summary>Tips for collapsed sections</summary>
+### Validando a situação do Módulo de impressão local
 
-### You can add a header
+| Icone        | Situação                                 | Ação                                     |
+| :----------: | ---------------------------------------- | ---------------------------------------- |
+| ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/da1486f6-b524-48ea-93e9-84c7707afef4) | **MÓDULO COM FALHA**   | Abrir o módulo e verificar as ocorrências de falha na **Aba Logs** |
+| ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/a7e83287-4aa5-44b1-9a36-698b6f3979dc) | **MÓDULO EM OPERAÇÂO** | Nenhuma ação necessária |
 
-You can add text within a collapsed section. 
+### Como realizar a impressão de etiquetas
 
-You can add an image or a code block, too.
+![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/4ab4af7d-a79b-4416-a425-6557f3f80e11)
+1. Na janela do relatório, clique no botão *Imprimir etiquetas**<br>
+2. Será exibida uma tela com todas as impressoras locais cadastradas<br>
+   2.1. Caso o Módulo de impressão local esteja ativo e em operação, a impressora estará marcada como **Disponível**
+3. Clique no botão **Imprimir** para enviar o relatório de etiquetas para a impressora configurada
 
-```ruby
-   puts "Hello World"
-```
-
+![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/a07b3dc4-cf6d-46dd-9065-0de90167105e)
 </details>
-   
+
+>[Voltar ao ÍNDICE](#ÍNDICE)
+
 
 
