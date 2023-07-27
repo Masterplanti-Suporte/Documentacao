@@ -58,9 +58,9 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
 ### Validando a situação do Módulo de impressão local
 
 | Icone        | Situação                                 | Ação                                     |
-| :----------: | ---------------------------------------- | ---------------------------------------- |
-| ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/da1486f6-b524-48ea-93e9-84c7707afef4) | **MÓDULO COM FALHA**   | Abrir o módulo e verificar as ocorrências de falha na **Aba Logs** |
-| ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/a7e83287-4aa5-44b1-9a36-698b6f3979dc) | **MÓDULO EM OPERAÇÂO** | Nenhuma ação necessária |
+| :----------: | :--------------------------------------: | ---------------------------------------- |
+| ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/da1486f6-b524-48ea-93e9-84c7707afef4) | **{c:red}MÓDULO COM FALHA{/c}**   | Abrir o módulo e verificar as ocorrências de falha na **Aba Logs**<br> _Para abrir o módulo, verifique o item 5.1 do procedimento **PASSO A PASSO PARA CONFIGURAÇÃO DO MÓDULO DE IMPRESSÃO EM SEU COMPUTADOR**_ |
+| ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/a7e83287-4aa5-44b1-9a36-698b6f3979dc) | **{c:blue}MÓDULO EM OPERAÇÂO{/c}** | Nenhuma ação necessária |
 
 ### Como realizar a impressão de etiquetas
 
@@ -74,6 +74,3 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
 </details>
 
 >[Voltar ao ÍNDICE](#ÍNDICE)
-
-
-
