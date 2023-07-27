@@ -32,15 +32,14 @@ Para realizar a impressão de etiquetas em uma impressora local através do bot�
    1.2. Ao executar o aplicativo **Impressão de etiquetas.exe** será exibida a janela abaixo<br>
 
    ![tempfile](https://github.com/Masterplanti-Suporte/Documentacao/assets/66273012/29cd6df2-7a6e-4f3a-b43f-8a0747882245)
-   
-   **ATENçÃO:**
-   ```
-   Tenha cuidado para não executar o aplicativo "Impressão de etiquetas.exe" varias vezes, essa ação fará
+
+
+   **``ATENçÃO:``**
+   Tenha cuidado para não executar o aplicativo **Impressão de etiquetas.exe**varias vezes, essa ação fará
    com que sejam abertos diversos aplicativos ao mesmo tempo. Caso isso ocorra, localize os aplicativos
    na bandeja de icones do Windows, clique com o botão direito do mouse sobre o ícone do aplicativo e
-   selecione a opção "Fechar", até que permaneça somente um aplicativo ativo. 
-   ```
-
+   selecione a opção **Fechar**, até que permaneça somente um aplicativo ativo. 
+      
 3. Localize e selecione a impressora que se deseja imprimir as etiquetas
 4. Copie e cole o **Token de identificação** (chave) de configuração previamente registrada no item 3.1 do **Passo a passo para configuração no PROPLANTI**
 5. Marque a opção **Iniciar com o Windows** para que o aplicativo seja iniciado automaticamente na inicialização do computador
